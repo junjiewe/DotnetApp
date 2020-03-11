@@ -1,0 +1,6 @@
+C:\Users\610169\Desktop\DotnetApp\Hello\Hello\bin\Release\Hello.exe.config
+C:\Users\610169\Desktop\DotnetApp\Hello\Hello\bin\Release\Hello.exe
+C:\Users\610169\Desktop\DotnetApp\Hello\Hello\bin\Release\Hello.pdb
+C:\Users\610169\Desktop\DotnetApp\Hello\Hello\obj\Release\Hello.csprojAssemblyReference.cache
+C:\Users\610169\Desktop\DotnetApp\Hello\Hello\obj\Release\Hello.exe
+C:\Users\610169\Desktop\DotnetApp\Hello\Hello\obj\Release\Hello.pdb

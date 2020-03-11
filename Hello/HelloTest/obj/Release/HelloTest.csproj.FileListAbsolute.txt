@@ -1,0 +1,16 @@
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\HelloTest.dll
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\HelloTest.pdb
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Hello.exe
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Hello.pdb
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Hello.exe.config
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\obj\Release\HelloTest.csprojAssemblyReference.cache
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\obj\Release\HelloTest.csproj.CopyComplete
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\obj\Release\HelloTest.dll
+C:\Users\610169\Desktop\DotnetApp\Hello\HelloTest\obj\Release\HelloTest.pdb
