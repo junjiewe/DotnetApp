@@ -29,12 +29,9 @@ node {
 	}
 	stage('SonarQube analysis'){
 		withSonarQubeEnv('SonarQube') { 
-		if (existsCodeCheck){
-				powershell 'ri codeCheckPath'
 				powershell 'Copy-Item "C:\\Users\\610169\\Desktop\\DotnetApp\\Hello\\Hello\\Hello.csproj" -Destination "C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin"'
-			} else {
-				powershell 'Copy-Item "C:\\Users\\610169\\Desktop\\DotnetApp\\Hello\\Hello\\Hello.csproj" -Destination "C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin"'
-		}
+		
+		
 		powershell '''
 			cd "C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin"
 			.\\sonar-scanner.bat -X -D sonar.projectKey=onePipeline -D sonar.projectName=DotNetHello -D sonar.projectVersion=2.0 -D sonar.login=admin -D sonar.password=admin -D sonar.sources="C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin\\Hello.csproj"
