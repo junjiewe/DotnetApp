@@ -26,10 +26,9 @@ node {
 		'''
 	}
 	stage('SonarQube analysis'){
-		def scannerhome = tool 'Sonar'
 		withSonarQubeEnv('SonarQube') { 
 		
-		powershell '''cd "scannerhome"'''
+		powershell '''cd "C:\Users\610169\Documents\sonar-scanner-4.2.0.1873-windows\bin\sonar-scanner.bat"'''
 		}
 	}
 }
