@@ -30,7 +30,7 @@ node {
 		
 		powershell '''
 			cd "C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin"
-			.\\sonar-scanner.bat -D sonar.projectKey=onePipe -D Sonar.ProjectName=TestApp -D Sonar.ProjectVersion=1.0 -D Sonar.Login=admin -D Sonar.Password=admin sonar.sources="C:\\Users\\610169\\Desktop\\DotnetApp\\Hello\\Hello.sln"'''
+			.\\sonar-scanner.bat '''
 		}
 	}
 }
