@@ -29,7 +29,7 @@ node {
 		def scannerhome = tool 'Sonar'
 		withSonarQubeEnv('SonarQube') { 
 		
-		powershell ''' $(scannerhome)\\"bin\\sonar-scanner.bat"'''
+		powershell '''cd $(scannerhome)"'''
 		}
 	}
 }
