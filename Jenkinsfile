@@ -27,8 +27,6 @@ node {
 	}
 	stage('SonarQube analysis'){
 		withSonarQubeEnv('SonarQube') { 
-				powershell 'Copy-Item "C:\\Users\\610169\\Desktop\\DotnetApp\\Hello\\Hello\\Hello.sln" -Destination "C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin"'
-		
 		
 		powershell '''
 			cd "C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin"
