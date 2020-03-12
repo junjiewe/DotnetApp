@@ -1,0 +1,1 @@
+Ã 2xmlXê hrhpackages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml

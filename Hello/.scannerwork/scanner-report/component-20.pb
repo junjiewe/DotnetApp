@@ -1,0 +1,1 @@
+ 2csX%hr Hello/Properties/AssemblyInfo.cs

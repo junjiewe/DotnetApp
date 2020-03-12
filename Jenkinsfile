@@ -21,8 +21,8 @@ node {
 		}
 
 		powershell '''
-			cd "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\"
-			.\\MSTest.exe /testcontainer:"C:\\Users\\610169\\Desktop\\DotnetApp\\Hello\\HelloTest\\bin\\Debug\\HelloTest.dll" /resultsfile:Resultfile
+			cd "C:\\Program Files (x86)\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\Extensions\\TestPlatform"
+			.\\VSTest.Console.exe "C:\\Users\\610169\\Desktop\\DotnetApp\\Hello\\HelloTest\\bin\\Debug\\HelloTest.dll"
 		'''
 	}
 	stage('SonarQube analysis'){

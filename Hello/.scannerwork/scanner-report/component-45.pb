@@ -1,0 +1,1 @@
+- 2xmlX¨"hrKHelloTest/bin/Release/Microsoft.VisualStudio.TestPlatform.TestFramework.xml

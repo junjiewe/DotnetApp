@@ -1,0 +1,1 @@
+  2xmlX^hrwpackages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML

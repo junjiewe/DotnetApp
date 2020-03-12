@@ -1,0 +1,1 @@
+! 2xmlX¨"hrIHelloTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml

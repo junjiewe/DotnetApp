@@ -1,0 +1,1 @@
+r 2xmlXÊhrqpackages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

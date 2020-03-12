@@ -1,0 +1,1 @@
+; 2csXhr$HelloTest/Properties/AssemblyInfo.cs

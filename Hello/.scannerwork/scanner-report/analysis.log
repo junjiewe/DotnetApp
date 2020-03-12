@@ -32,6 +32,6 @@ Project scanner properties:
   - sonar.scanner.app=ScannerCli
   - sonar.scanner.appVersion=4.2.0.1873
   - sonar.sourceEncoding=windows-1252
-  - sonar.sources=C:\Users\610169\Desktop\DotnetApp\Hello\Hello.sln
   - sonar.verbose=true
+  - sonar.visualstudio.solution=Hello.sln
   - sonar.working.directory=C:\Users\610169\Desktop\DotnetApp\Hello\.scannerwork

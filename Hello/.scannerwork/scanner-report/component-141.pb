@@ -1,0 +1,1 @@
+ç 2xmlXÍ hrkpackages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml

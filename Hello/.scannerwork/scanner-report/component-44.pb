@@ -1,0 +1,1 @@
+, 2xmlXÊhrVHelloTest/bin/Release/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

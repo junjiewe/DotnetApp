@@ -1,0 +1,1 @@
+è 2xmlXÍ hrkpackages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
