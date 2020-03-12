@@ -1,7 +1,7 @@
 node {
 
 	def Resultfile = "C:\\Program Files (x86)\\Jenkins\\workspace\\TestPipeLine\\Test\\Results.trx"
-	def codeCheckPath = "C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin\\Hello.sln"
+	def codeCheckPath = "C:\\Users\\610169\\Documents\\sonar-scanner-4.2.0.1873-windows\\bin\\Hello.csproj"
 	def existsResult = fileExists Resultfile
 	def existsCodeCheck = fileExists codeCheckPath
 	
