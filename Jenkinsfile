@@ -21,7 +21,7 @@ node {
 		}
 
 		powershell '''
-			cd "C:\\Program Files (x86)\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\Extensions\\TestPlatform"
+			cd "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\Extensions\\TestPlatform"
 			.\\VSTest.Console.exe "C:\\Users\\610169\\Desktop\\DotnetApp\\Hello\\HelloTest\\bin\\Debug\\HelloTest.dll"
 		'''
 	}
